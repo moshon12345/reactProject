@@ -1,0 +1,358 @@
+[{
+  "_id": {
+    "$oid": "64709f71ff3f39a6616b1a34"
+  },
+  "title": "first card",
+  "subtitle": "this is the first card",
+  "description": "this is the first card in the database",
+  "phone": "050-0000000",
+  "email": "firstcard@gmail.com",
+  "web": "https://www.test.co.il",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a35"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "test",
+    "city": "test",
+    "street": "test",
+    "houseNumber": 3,
+    "zip": 0,
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a36"
+    }
+  },
+  "bizNumber": 4006461,
+  "likes": [
+    "64709f71ff3f39a6616b1a4c",
+    "649071af28250b2866ae6e8f"
+  ],
+  "user_id": {
+    "$oid": "6376274068d78742d84f31d2"
+  },
+  "createdAt": {
+    "$date": "2023-05-26T12:00:49.489Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64709f71ff3f39a6616b1a44"
+  },
+  "title": "second card",
+  "subtitle": "this is the second card",
+  "description": "this is the second card in the database",
+  "phone": "050-0000000",
+  "email": "secondcard@gmail.com",
+  "web": "https://www.test.co.il",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a45"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "test",
+    "city": "test",
+    "street": "test",
+    "houseNumber": 3,
+    "zip": 0,
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a46"
+    }
+  },
+  "bizNumber": 9808047,
+  "likes": [
+    "64709f71ff3f39a6616b1a38",
+    "64709f71ff3f39a6616b1a4c"
+  ],
+  "user_id": {
+    "$oid": "6376274068d78742d84f31d2"
+  },
+  "createdAt": {
+    "$date": "2023-05-26T12:00:49.512Z"
+  },
+  "__v": 18
+},
+{
+  "_id": {
+    "$oid": "64709f71ff3f39a6616b1a48"
+  },
+  "title": "third card",
+  "subtitle": "this is the third card",
+  "description": "this is the third card in the database",
+  "phone": "050-0000000",
+  "email": "thirdcard@gmail.com",
+  "web": "https://www.test.co.il",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a49"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "test",
+    "city": "test",
+    "street": "test",
+    "houseNumber": 3,
+    "zip": 0,
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a4a"
+    }
+  },
+  "bizNumber": 2107098,
+  "likes": [
+    "649071af28250b2866ae6e8f",
+    "64709f71ff3f39a6616b1a4c"
+  ],
+  "user_id": {
+    "$oid": "6376274068d78742d84f31d2"
+  },
+  "createdAt": {
+    "$date": "2023-05-26T12:00:49.515Z"
+  },
+  "__v": 16
+},
+{
+  "_id": {
+    "$oid": "6495745ddf77c1cc6f65bde4"
+  },
+  "title": "admin test",
+  "subtitle": "admin",
+  "description": "admin",
+  "phone": "052345453",
+  "email": "admin@admin.com",
+  "web": "",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "6495745ddf77c1cc6f65bde5"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "admin",
+    "city": "admin",
+    "street": "admin",
+    "houseNumber": 33,
+    "zip": 0,
+    "_id": {
+      "$oid": "6495745ddf77c1cc6f65bde6"
+    }
+  },
+  "bizNumber": 5456955,
+  "likes": [
+    "64709f71ff3f39a6616b1a38",
+    "649071af28250b2866ae6e8f"
+  ],
+  "user_id": {
+    "$oid": "64709f71ff3f39a6616b1a4c"
+  },
+  "createdAt": {
+    "$date": "2023-06-23T10:30:53.565Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "6495a57fdf77c1cc6f65bee7"
+  },
+  "title": "tugiske",
+  "subtitle": "dugisk",
+  "description": "plugik",
+  "phone": "0525705286",
+  "email": "hena@hena.com",
+  "web": "http://www.hen.com",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64aec765e4cc5f9d8f95806d"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "switzerland",
+    "city": "hod hasharon",
+    "street": "blugi street",
+    "houseNumber": 99,
+    "zip": 13,
+    "_id": {
+      "$oid": "64aec765e4cc5f9d8f95806e"
+    }
+  },
+  "bizNumber": 1050603,
+  "likes": [
+    "64709f71ff3f39a6616b1a38"
+  ],
+  "user_id": {
+    "$oid": "64709f71ff3f39a6616b1a4c"
+  },
+  "createdAt": {
+    "$date": "2023-06-23T14:00:31.388Z"
+  },
+  "__v": 9
+},
+{
+  "_id": {
+    "$oid": "649b2c11bb1cf155e65e8fdd"
+  },
+  "title": "lwlk 19",
+  "subtitle": "lwl",
+  "description": "lwl",
+  "phone": "0525705286",
+  "email": "lwl@lwl.com",
+  "web": "",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64ad6159d9253f2eca779eae"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "lwl",
+    "city": "lwl",
+    "street": "lwl",
+    "houseNumber": 5,
+    "zip": 9,
+    "_id": {
+      "$oid": "64ad6159d9253f2eca779eaf"
+    }
+  },
+  "bizNumber": 9458906,
+  "likes": [
+    "649071af28250b2866ae6e8f"
+  ],
+  "user_id": {
+    "$oid": "64709f71ff3f39a6616b1a4c"
+  },
+  "createdAt": {
+    "$date": "2023-06-27T18:36:01.132Z"
+  },
+  "__v": 19
+},
+{
+  "_id": {
+    "$oid": "64ad617bd9253f2eca779eb5"
+  },
+  "title": "ffff",
+  "subtitle": "ffff",
+  "description": "ffff",
+  "phone": "052534533",
+  "email": "ffff@ffff.com",
+  "web": "",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64ad617bd9253f2eca779eb6"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "ffff",
+    "city": "ffff",
+    "street": "ffff",
+    "houseNumber": 5,
+    "zip": 7,
+    "_id": {
+      "$oid": "64ad617bd9253f2eca779eb7"
+    }
+  },
+  "bizNumber": 9292461,
+  "likes": [],
+  "user_id": {
+    "$oid": "64709f71ff3f39a6616b1a4c"
+  },
+  "createdAt": {
+    "$date": "2023-07-11T14:04:43.089Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "64ad9447e4cc5f9d8f957fc4"
+  },
+  "title": "g3g5g7g9",
+  "subtitle": "gggggg",
+  "description": "gggggg",
+  "phone": "034234234",
+  "email": "gggggg@gggggg.com",
+  "web": "",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64aec73fe4cc5f9d8f958063"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "gggggg",
+    "city": "gggggg",
+    "street": "gggggg",
+    "houseNumber": 3,
+    "zip": 5,
+    "_id": {
+      "$oid": "64aec73fe4cc5f9d8f958064"
+    }
+  },
+  "bizNumber": 1607134,
+  "likes": [],
+  "user_id": {
+    "$oid": "64709f71ff3f39a6616b1a4c"
+  },
+  "createdAt": {
+    "$date": "2023-07-11T17:41:27.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ad945de4cc5f9d8f957fca"
+  },
+  "title": "kkkkkk2",
+  "subtitle": "kkkkkk",
+  "description": "kkkkkk",
+  "phone": "0432423423",
+  "email": "kkkkkk@kkkkkk.om",
+  "web": "",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64b8231a5bbff6b7e4f22128"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "kkkkkk",
+    "city": "kkkkkk",
+    "street": "kkkkkk",
+    "houseNumber": 6,
+    "zip": 3,
+    "_id": {
+      "$oid": "64b8231a5bbff6b7e4f22129"
+    }
+  },
+  "bizNumber": 5013301,
+  "likes": [],
+  "user_id": {
+    "$oid": "64709f71ff3f39a6616b1a4c"
+  },
+  "createdAt": {
+    "$date": "2023-07-11T17:41:49.202Z"
+  },
+  "__v": 2
+}]

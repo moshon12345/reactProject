@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "64709f71ff3f39a6616b1a38"
+  },
+  "name": {
+    "first": "regular",
+    "middle": "",
+    "last": "user",
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a39"
+    }
+  },
+  "phone": "050-0000000",
+  "email": "regular@gmail.com",
+  "password": "$2a$10$4RErsSLQYzPvHcLbFBS6xeLB5d5Mlx0FsJ5bZiXeeaQTfkMeLWWbS",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a3a"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "israel",
+    "city": "tel-aviv",
+    "street": "magnive",
+    "houseNumber": 5,
+    "zip": 0,
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a3b"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": false,
+  "createdAt": {
+    "$date": "2023-05-26T12:00:49.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64709f71ff3f39a6616b1a3f"
+  },
+  "name": {
+    "first": "business",
+    "middle": "",
+    "last": "user",
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a40"
+    }
+  },
+  "phone": "050-0000000",
+  "email": "business@gmail.com",
+  "password": "$2a$10$d5b6UuPSRPCI4GWvfYwaseg0.T1SWn7h8kdD8t.WPBROYP/Erdemm",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a41"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "israel",
+    "city": "tel-aviv",
+    "street": "magnive",
+    "houseNumber": 5,
+    "zip": 0,
+    "_id": {
+      "$oid": "64709f71ff3f39a6616b1a42"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": true,
+  "createdAt": {
+    "$date": "2023-05-26T12:00:49.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649071af28250b2866ae6e8f"
+  },
+  "name": {
+    "first": "moshe",
+    "middle": "lucki",
+    "last": "karaso",
+    "_id": {
+      "$oid": "649071af28250b2866ae6e90"
+    }
+  },
+  "phone": "0525705286",
+  "email": "moshekaraso@gmail.com",
+  "password": "$2a$10$wfjYWbJMbEMZSAcJZM9g3O0hoXZywXEyA3Z9Zy8uv1MGlz/vZNvp.",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "649071af28250b2866ae6e91"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "israel",
+    "city": "hod hasharon",
+    "street": "alevi'im",
+    "houseNumber": 3,
+    "zip": 0,
+    "_id": {
+      "$oid": "649071af28250b2866ae6e92"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": true,
+  "createdAt": {
+    "$date": "2023-06-19T15:18:07.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c01b811e07c84457bd1471"
+  },
+  "name": {
+    "first": "aki",
+    "middle": "",
+    "last": "user",
+    "_id": {
+      "$oid": "64c174739aed892d67583be0"
+    }
+  },
+  "phone": "050-0000000",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$nc5tMxI5yO74uIuHlakIkuPNiaRZWqDE5gkOO0rvRKVJa4za3zJJq",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64c174739aed892d67583be1"
+    }
+  },
+  "address": {
+    "state": "not defined",
+    "country": "israel",
+    "city": "tel-aviv",
+    "street": "magnive",
+    "houseNumber": 5,
+    "zip": 0,
+    "_id": {
+      "$oid": "64c174739aed892d67583be2"
+    }
+  },
+  "isAdmin": true,
+  "isBusiness": true,
+  "createdAt": {
+    "$date": "2023-05-26T12:00:49.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ca71cdb43f3155d7a946b8"
+  },
+  "name": {
+    "first": "cccc",
+    "middle": "cccc",
+    "last": "cccc",
+    "_id": {
+      "$oid": "64ca71cdb43f3155d7a946b9"
+    }
+  },
+  "phone": "09876543298",
+  "email": "cccc@cccc.com",
+  "password": "$2a$10$LXYIq1qNxpFd1EIu9YHWderY4QKXw.Pw/dAdUzsV4.gRsJ9MFp9Ky",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64ca71cdb43f3155d7a946ba"
+    }
+  },
+  "address": {
+    "state": "cccc",
+    "country": "cccc",
+    "city": "cccc",
+    "street": "cccc",
+    "houseNumber": 1,
+    "zip": 11,
+    "_id": {
+      "$oid": "64ca71cdb43f3155d7a946bb"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": true,
+  "createdAt": {
+    "$date": "2023-08-02T15:10:05.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ca79f8a98344021d8a92e8"
+  },
+  "name": {
+    "first": "bbbb",
+    "middle": "bbbb",
+    "last": "bbbb",
+    "_id": {
+      "$oid": "64ca79f8a98344021d8a92e9"
+    }
+  },
+  "phone": "087654321",
+  "email": "bbbb@bbbb.com",
+  "password": "$2a$10$HA6pMjA1ZrktbdMe88uBQ.kBlVT55fmCSfaXzOS6dt1RCHUm5j1PG",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64ca79f8a98344021d8a92ea"
+    }
+  },
+  "address": {
+    "state": "bbbb",
+    "country": "bbbb",
+    "city": "bbbb",
+    "street": "bbbb",
+    "houseNumber": 3,
+    "zip": 33,
+    "_id": {
+      "$oid": "64ca79f8a98344021d8a92eb"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": false,
+  "createdAt": {
+    "$date": "2023-08-02T15:44:56.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ca7f585799a8346f65b816"
+  },
+  "name": {
+    "first": "llll",
+    "middle": "llll",
+    "last": "llll",
+    "_id": {
+      "$oid": "64ca7f585799a8346f65b817"
+    }
+  },
+  "phone": "0987654321",
+  "email": "llll@llll.com",
+  "password": "$2a$10$Gq5difQ58jlwkmaPLDhs9.IygVPZxbUgj0oNEukrBtQWcTcOr5aSG",
+  "image": {
+    "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+    "alt": "business card image",
+    "_id": {
+      "$oid": "64ca7f585799a8346f65b818"
+    }
+  },
+  "address": {
+    "state": "llll",
+    "country": "llll",
+    "city": "llll",
+    "street": "llll",
+    "houseNumber": 1,
+    "zip": 11,
+    "_id": {
+      "$oid": "64ca7f585799a8346f65b819"
+    }
+  },
+  "isAdmin": false,
+  "isBusiness": true,
+  "createdAt": {
+    "$date": "2023-08-02T16:07:52.691Z"
+  },
+  "__v": 0
+}]
